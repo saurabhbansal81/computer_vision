@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+opencv-contrib-python
+torch
+matplotlib
+tensorflow-hub
+jupyter
+torchvision
